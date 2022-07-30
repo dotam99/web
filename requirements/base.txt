@@ -6,7 +6,7 @@ celery==4.4.0
 django-celery-beat==1.1.1
 django==2.2.20
 django-csp==3.7
-django-cors-headers==2.4.0
+django-cors-headers==3.0.0
 django-filter==2.0.0
 django-haystack
 django-ratelimit==1.1.0
@@ -24,7 +24,7 @@ Pillow==8.1.1
 premailer
 populus
 psycopg2-binary==2.7.5
-PyJWT==1.5.3
+PyJWT==2.4.0
 PyPdf2
 python-twitter==3.2
 sendgrid==5.6.0
