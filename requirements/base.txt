@@ -17,10 +17,10 @@ gitterpy
 gunicorn
 matplotlib
 Markdown==3.2.1
-reportlab==3.5.6
+reportlab==3.5.55
 requests
 requests_oauthlib
-Pillow==8.1.1
+Pillow==9.0.1
 premailer
 populus
 psycopg2-binary==2.7.5
@@ -74,7 +74,7 @@ git+https://github.com/gitcoinco/django-cacheops.git#egg=django-cacheops
 django-redis==4.10.0
 collectfast==0.6.2
 django-health-check==3.7.0
-elastic-apm==3.0.1
+elastic-apm==5.1.0
 mkdocs==1.0.4
 pymdown-extensions==5.0
 mkdocs-material==3.0.4
