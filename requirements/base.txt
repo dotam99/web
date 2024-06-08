@@ -105,3 +105,4 @@ tweepy
 oogway==0.7.0
 icalendar==4.0.7
 numpy==1.19.5
+tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
