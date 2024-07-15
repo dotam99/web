@@ -105,3 +105,4 @@ tweepy
 oogway==0.7.0
 icalendar==4.0.7
 numpy==1.19.5
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
